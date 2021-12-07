@@ -1,4 +1,4 @@
-package tn.isima.tpp2;
+package tn.isima.tpp5;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
